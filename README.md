@@ -99,7 +99,7 @@ booknest/
 ### 1️⃣ Clone the Repository
 
 \`\`\`bash
-git clone https://github.com/your-username/booknest.git
+git clone https://github.com/RoshaanShahid/Booknest-SecondHandBookExchangePlatform-.git
 cd booknest
 \`\`\`
 
@@ -224,8 +224,8 @@ This project is licensed under the MIT License. See \`LICENSE\` for more details
 
 ## 👨‍💻 Author
 
-Built by **Roshaan Shahid Sapid**
+Built by **Roshaan Shahid**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [RoshaanShahid](https://github.com/RoshaanShahid)
+- Email: malikrushaan26@gmail.com
 
